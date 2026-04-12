@@ -1,0 +1,7 @@
+POST http://localhost:8080/tarefas
+Content-Type: application/json
+
+{
+  "descricao": "Minha primeira tarefa",
+  "concluida": false
+}
